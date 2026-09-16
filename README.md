@@ -8,11 +8,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=900\&center=true\&vCenter=true\&width=700\&lines=Construyendo+APIs+REST+con+Python+y+FastAPI;Desarrollando+aplicaciones+backend+escalables;Explorando+Cloud%2C+AWS+y+DevOps;Integrando+IA+y+automatizaci%C3%B3n+en+mis+proyectos)](https://git.io/typing-svg)
 
-<a href="mailto:ricardo.chimoy0909@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:ricardo.chimoy0909@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://www.linkedin.com/in/ricardo-chimoy/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/ricardo-chimoy/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
@@ -97,15 +97,20 @@
 <div align="center">
 
 <img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=Ricardoxx07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-alt="Estadísticas de GitHub"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricardoxx07&theme=github_dark"
+alt="GitHub Profile Details"
+/>
+
+<br>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ricardoxx07&theme=github_dark"
+alt="GitHub Stats"
 />
 
 <img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardoxx07&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-alt="Lenguajes más utilizados"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ricardoxx07&theme=github_dark"
+alt="Lenguajes por repositorio"
 />
 
 </div>
@@ -118,11 +123,11 @@ alt="Lenguajes más utilizados"
 
 Estoy abierto a seguir aprendiendo, colaborar en proyectos y conversar sobre desarrollo backend, Cloud, DevOps e Inteligencia Artificial.
 
-<a href="mailto:ricardo.chimoy0909@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:ricardo.chimoy0909@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://www.linkedin.com/in/ricardo-chimoy/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/ricardo-chimoy/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
