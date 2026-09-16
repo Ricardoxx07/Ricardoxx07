@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Qué bueno verte por aquí.</h1>
 
-Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | Typescript | Cloud & DevOps Learner**.
+Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | TypeScript | Cloud & DevOps Learner**.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true\&width=600\&lines=Backend+Developer+%7C+Python+%26+Java ;Construyendo+APIs+REST+con+FastAPI;Explorando+Cloud+%26+DevOps;Interesado+en+IA+y+automatizaci%C3%B3n)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%26+Java;Construyendo+APIs+REST+con+FastAPI;Explorando+Cloud+%26+DevOps;Interesado+en+IA+y+automatizaci%C3%B3n)](https://git.io/typing-svg)
 
 ### 📫 Cómo contactarme
 
