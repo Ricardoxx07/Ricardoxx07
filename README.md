@@ -1,143 +1,154 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Qué bueno verte por aquí.</h1>
+<div align="center">
 
-Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | C# |TypeScript | Cloud & DevOps Learner**.
+# 👋 ¡Hola! Soy Ricardo Chimoy
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%26+Java;Construyendo+APIs+REST+con+FastAPI;Explorando+Cloud+%26+DevOps;Interesado+en+IA+y+automatizaci%C3%B3n)](https://git.io/typing-svg)
+### Backend Developer | Python 🐍 | Java | C# | TypeScript
 
-### 📫 Cómo contactarme
+### Cloud & DevOps Learner ☁️
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=900\&center=true\&vCenter=true\&width=700\&lines=Construyendo+APIs+REST+con+Python+y+FastAPI;Desarrollando+aplicaciones+backend+escalables;Explorando+Cloud%2C+AWS+y+DevOps;Integrando+IA+y+automatizaci%C3%B3n+en+mis+proyectos)](https://git.io/typing-svg)
 
 <a href="mailto:ricardo.chimoy0909@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ricardo.chimoy0909%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 <a href="https://www.linkedin.com/in/ricardo-chimoy/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Chimoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-
-### Actualmente:
-
-* 💼 Soy egresado de una <strong>carrera técnica en Desarrollo de Software</strong> y actualmente me encuentro construyendo mi perfil profesional en tecnología.
-* 🔭 Estoy desarrollando proyectos enfocados en <strong>Python, FastAPI, bases de datos y aplicaciones web</strong>, incluyendo soluciones con integración de Inteligencia Artificial.
-* 🌱 Actualmente estoy reforzando conocimientos en <strong>Linux, Docker, AWS, Cloud y DevOps</strong>.
-* ⚙️ Me interesa especialmente entender cómo se construyen, despliegan y mantienen aplicaciones backend en entornos reales.
-* 🔍 Estoy en búsqueda de mi <strong>primera oportunidad profesional en TI</strong>, donde pueda seguir aprendiendo y aportar desde el desarrollo backend o soporte de aplicaciones.
-* 💬 Me gusta conversar y aprender sobre <strong>Python, APIs REST, FastAPI, Docker, PostgreSQL, Linux y automatización</strong>.
-* 🚀 En este perfil comparto los <strong>proyectos, prácticas y tecnologías</strong> que forman parte de mi crecimiento como profesional.
-
-
-### Herramientas y tecnologías que utilizo 🛠️
-
-#### 💻 Lenguajes
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white">
-  
-</p>
-
-#### ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white">
-</p>
-
-#### 🎨 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-</p>
-
-#### 🗄️ Bases de datos
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</p>
-
-#### ☁️ DevOps, Cloud y sistemas
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-</p>
-
-#### 🤖 Inteligencia Artificial
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
-</p>
-
-#### 🧰 Herramientas
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
-
-
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardoxx07&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ricardoxx07&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Ricardoxx07&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
 </div>
-<!--- trophy (start) -->
 
+---
 
+## 👨‍💻 Sobre mí
+
+* 🎓 Egresado de una **carrera técnica en Desarrollo de Software**.
+* 🔭 Desarrollo proyectos enfocados en **backend, APIs REST, bases de datos y aplicaciones web**, incluyendo soluciones con Inteligencia Artificial.
+* ☁️ Actualmente profundizo en **Linux, Docker, AWS, Cloud y DevOps**.
+* ⚙️ Me interesa entender el ciclo completo de una aplicación: **diseño, desarrollo, pruebas, despliegue y mantenimiento**.
+* 🔍 Busco mi **primera oportunidad profesional en TI**, especialmente en desarrollo backend, soporte de aplicaciones o posiciones junior relacionadas.
+* 🚀 Utilizo este perfil para documentar los **proyectos y tecnologías** que forman parte de mi crecimiento profesional.
+
+---
+
+## 🛠️ Tecnologías
+
+### 💻 Lenguajes
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square">
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+</p>
+
+### 🗄️ Bases de datos
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+</p>
+
+### ☁️ DevOps, Cloud y sistemas
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+</p>
+
+### 🤖 Inteligencia Artificial
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+</p>
+
+### 🧰 Herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ricardoxx07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardoxx07&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br>
 
-<!-----projects------>
-## Projects:
+<img src="https://streak-stats.demolab.com/?user=Ricardoxx07&theme=github-dark-blue&hide_border=true" />
 
-### [Gestión de tareas con integración de IA](https://github.com/Ricardoxx07/Gesti-n-de-tareas-IA)
-	- Aplicación web para gestionar tareas con asistencia de Inteligencia Artificial, autenticación JWT, usuarios independientes y recomendaciones inteligentes.
-	- Incluye API REST, persistencia en PostgreSQL, migraciones, testing, Docker, CI/CD y despliegue en producción. 
-    - Tecnologías usadas: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, React, TypeScript, Docker, GitHub Actions, Groq, Ollama
-  
+</div>
 
-### [Sistema de reservas de clínica](https://github.com/Ricardoxx07/Sistema-de-Reserva-cl-nica)
-	- wrigting web scraper scrapint to scrap Vietnamese National Power usage Data in 2022
-	 for the national power website graph for data anyalsis work 
-	- Technologies Used: Python,Scrapy,postman
-<!-----/projects-------->
+---
 
-<br>
+## 🚀 Proyectos destacados
 
+### 🤖 [Gestor de Tareas con IA](https://github.com/Ricardoxx07/Gesti-n-de-tareas-IA)
+
+Aplicación web para gestionar tareas mediante una API REST e integración con Inteligencia Artificial.
+
+* 🔐 Autenticación JWT y aislamiento de información por usuario.
+* 🤖 Generación de tareas, subtareas, recomendaciones y planificación mediante IA.
+* 🗄️ Persistencia con PostgreSQL y migraciones con Alembic.
+* 🐳 Contenedorización con Docker y CI mediante GitHub Actions.
+* 🌐 Frontend, backend y base de datos desplegados en servicios cloud.
+
+**Stack:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `TypeScript` `Docker` `GitHub Actions` `Ollama`
+
+---
+
+### 🏥 [Sistema de Reserva Clínica](https://github.com/Ricardoxx07/Sistema-de-Reserva-cl-nica)
+
+Sistema orientado a gestionar reservas y operaciones relacionadas con la atención de una clínica.
+
+* ⚙️ Implementación de lógica de negocio y gestión de datos.
+* 🔗 Organización de funcionalidades mediante una arquitectura estructurada.
+* 🗄️ Persistencia y operaciones CRUD.
+
+**Stack:** `Java` `Spring Boot` `MySQL` `REST API`
+
+---
+
+<div align="center">
+
+### 🤝 Conectemos
+
+Estoy abierto a seguir aprendiendo, colaborar en proyectos y conversar sobre desarrollo backend, Cloud, DevOps e Inteligencia Artificial.
+
+<a href="mailto:ricardo.chimoy0909@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/ricardo-chimoy/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 
 
 
