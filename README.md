@@ -85,12 +85,33 @@ Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | TypeScri
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/DBeav
 
-🚀 Repositorios públicos destacados
 
-[<p align="center"> <a href="https://github.com/Ricardoxx07/Gesti-n-de-tareas-IA"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardoxx07&repo=Gesti-n-de-tareas-IA
-&theme=material-palenight" /> </a>](https://github.com/Ricardoxx07/Ricardoxx07)
 
 <a href="https://github.com/Ricardoxx07/Sistema-de-Reserva-cl-nica"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardoxx07&repo=Sistema-de-Reserva-cl-nica&theme=material-palenight" /> </a> </p>
+
+
+
+
+<br>
+
+<!-----projects------>
+## Projects:
+
+### [Gestión de tareas con integración de IA](https://github.com/Ricardoxx07/Gesti-n-de-tareas-IA)
+	- Aplicación web para gestionar tareas con asistencia de Inteligencia Artificial, autenticación JWT, usuarios independientes y recomendaciones inteligentes.
+	- Incluye API REST, persistencia en PostgreSQL, migraciones, testing, Docker, CI/CD y despliegue en producción. 
+  - Tecnologías usadas: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, React, TypeScript, Docker, GitHub Actions, Groq, Ollama
+  
+
+### [Sistema de reservas de clínica](https://github.com/Ricardoxx07/Sistema-de-Reserva-cl-nica)
+	- wrigting web scraper scrapint to scrap Vietnamese National Power usage Data in 2022
+	 for the national power website graph for data anyalsis work 
+	- Technologies Used: Python,Scrapy,postman
+<!-----/projects-------->
+
+<br>
+
+
 
 
 
