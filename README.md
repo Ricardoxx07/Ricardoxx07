@@ -87,8 +87,8 @@ Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | TypeScri
 
 🚀 Repositorios públicos destacados
 
-<p align="center"> <a href="https://github.com/Ricardoxx07/Gesti-n-de-tareas-IA"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardoxx07&repo=Gesti-n-de-tareas-IA
-&theme=material-palenight" /> </a>
+[<p align="center"> <a href="https://github.com/Ricardoxx07/Gesti-n-de-tareas-IA"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardoxx07&repo=Gesti-n-de-tareas-IA
+&theme=material-palenight" /> </a>](https://github.com/Ricardoxx07/Ricardoxx07)
 
 <a href="https://github.com/Ricardoxx07/Sistema-de-Reserva-cl-nica"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardoxx07&repo=Sistema-de-Reserva-cl-nica&theme=material-palenight" /> </a> </p>
 
