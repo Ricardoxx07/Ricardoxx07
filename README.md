@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Qué bueno verte por aquí.</h1>
 
-Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | TypeScript | Cloud & DevOps Learner**.
+Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | C# |TypeScript | Cloud & DevOps Learner**.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%26+Java;Construyendo+APIs+REST+con+FastAPI;Explorando+Cloud+%26+DevOps;Interesado+en+IA+y+automatizaci%C3%B3n)](https://git.io/typing-svg)
 
@@ -33,8 +33,9 @@ Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | TypeScri
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white">
+  
 </p>
 
 #### ⚙️ Backend
