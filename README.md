@@ -46,6 +46,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs">
 </p>
@@ -63,6 +64,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
 ### ☁️ DevOps, Cloud y sistemas
@@ -88,6 +90,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
 </p>
 
 ---
@@ -102,17 +105,20 @@ alt="GitHub Profile Details"
 />
 
 <br>
+
 <!---
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ricardoxx07&theme=github_dark"
 alt="GitHub Stats"
-/>--->
-<!----
+/>
+--->
+
+<!---
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ricardoxx07&theme=github_dark"
 alt="Lenguajes por repositorio"
 />
-> ---->
+--->
 
 </div>
 
