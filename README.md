@@ -102,16 +102,17 @@ alt="GitHub Profile Details"
 />
 
 <br>
-
+<!---
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ricardoxx07&theme=github_dark"
 alt="GitHub Stats"
-/>
-
+/>--->
+<!----
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ricardoxx07&theme=github_dark"
 alt="Lenguajes por repositorio"
 />
+> ---->
 
 </div>
 
