@@ -85,7 +85,12 @@ Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | TypeScri
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/DBeav
 
+🚀 Repositorios públicos destacados
 
+<p align="center"> <a href="https://github.com/Ricardoxx07/Gesti-n-de-tareas-IA"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardoxx07&repo=Gesti-n-de-tareas-IA
+&theme=material-palenight" /> </a>
+
+<a href="https://github.com/Ricardoxx07/Sistema-de-Reserva-cl-nica"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardoxx07&repo=Sistema-de-Reserva-cl-nica&theme=material-palenight" /> </a> </p>
 
 
 
