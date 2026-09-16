@@ -107,34 +107,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 🤖 [Gestor de Tareas con IA](https://github.com/Ricardoxx07/Gesti-n-de-tareas-IA)
-
-Aplicación web para gestionar tareas mediante una API REST e integración con Inteligencia Artificial.
-
-* 🔐 Autenticación JWT y aislamiento de información por usuario.
-* 🤖 Generación de tareas, subtareas, recomendaciones y planificación mediante IA.
-* 🗄️ Persistencia con PostgreSQL y migraciones con Alembic.
-* 🐳 Contenedorización con Docker y CI mediante GitHub Actions.
-* 🌐 Frontend, backend y base de datos desplegados en servicios cloud.
-
-**Stack:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `TypeScript` `Docker` `GitHub Actions` `Ollama`
-
----
-
-### 🏥 [Sistema de Reserva Clínica](https://github.com/Ricardoxx07/Sistema-de-Reserva-cl-nica)
-
-Sistema orientado a gestionar reservas y operaciones relacionadas con la atención de una clínica.
-
-* ⚙️ Implementación de lógica de negocio y gestión de datos.
-* 🔗 Organización de funcionalidades mediante una arquitectura estructurada.
-* 🗄️ Persistencia y operaciones CRUD.
-
-**Stack:** `Java` `Spring Boot` `MySQL` `REST API`
-
----
-
 <div align="center">
 
 ### 🤝 Conectemos
