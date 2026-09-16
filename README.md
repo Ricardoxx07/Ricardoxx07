@@ -87,10 +87,6 @@ Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | TypeScri
 
 
 
-<a href="https://github.com/Ricardoxx07/Sistema-de-Reserva-cl-nica"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardoxx07&repo=Sistema-de-Reserva-cl-nica&theme=material-palenight" /> </a> </p>
-
-
-
 
 <br>
 
@@ -100,7 +96,7 @@ Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | TypeScri
 ### [Gestión de tareas con integración de IA](https://github.com/Ricardoxx07/Gesti-n-de-tareas-IA)
 	- Aplicación web para gestionar tareas con asistencia de Inteligencia Artificial, autenticación JWT, usuarios independientes y recomendaciones inteligentes.
 	- Incluye API REST, persistencia en PostgreSQL, migraciones, testing, Docker, CI/CD y despliegue en producción. 
-  - Tecnologías usadas: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, React, TypeScript, Docker, GitHub Actions, Groq, Ollama
+    - Tecnologías usadas: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, React, TypeScript, Docker, GitHub Actions, Groq, Ollama
   
 
 ### [Sistema de reservas de clínica](https://github.com/Ricardoxx07/Sistema-de-Reserva-cl-nica)
