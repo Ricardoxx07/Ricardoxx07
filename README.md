@@ -88,21 +88,6 @@ Soy **Ricardo Chimoy** 👋, **Backend Developer | Python 🐍 | Java | Typescri
 
 
 
-### Estadísticas de GitHub :cyclone:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ricardoxx07&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Ricardoxx07&theme=dracula&no-bg=true&row=1" />
-
-### Lenguajes y actividad destacada :blossom:
-
-<a href="https://github.com/Ricardoxx07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardoxx07&langs_count=8&layout=compact&theme=material-palenight&hide=html" />
-</a>
-
-### Actividad en GitHub 🔥
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardoxx07&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
 
